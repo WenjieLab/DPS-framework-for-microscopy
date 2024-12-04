@@ -1,5 +1,5 @@
 # DPS-framework for microscopy
-This deep-learning based algorithm is developed to improve the resolution of existing optical microscopy (super-resolution or not) techniques.
+This code is developed to improve the resolution of existing optical microscopy (super-resolution or not) techniques with our deep-learning based DPS algorithm.
 
 More details can be found in our related publication:
 
